@@ -19,7 +19,6 @@ A new flutter plugin project.
 
   s.dependency 'sqlite3', '~> 3.41.0'
   s.dependency 'sqlite3/fts5'
-  s.dependency 'sqlite3/perf-threadsafe'
   s.dependency 'sqlite3/rtree'
 
   s.platform = :ios, '8.0'
